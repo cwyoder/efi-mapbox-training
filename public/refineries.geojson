@@ -1,0 +1,2909 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6439164,41.9558963 ]
+    },
+    "properties": {
+    "id":1,
+    "corp":"AMERICAN REFINING GROUP INC",
+    "survey":820,
+    "perdio":21,
+    "name":"AMERICAN REFINING GROUP INC",
+    "rdist":"Appalachian No. 1",
+    "state":"Pennsylvania",
+    "city":"BRADFORD",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":11000,
+    "percent":"1%",
+    "hydrogen":1614
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.588815,39.5778901 ]
+    },
+    "properties": {
+    "id":26,
+    "corp":"PBF ENERGY CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"DELAWARE CITY REFINING CO LLC",
+    "rdist":"East Coast",
+    "state":"Delaware",
+    "city":"DELAWARE CITY",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":171000,
+    "percent":"21%",
+    "hydrogen":25092
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5984151,40.6174875 ]
+    },
+    "properties": {
+    "id":31,
+    "corp":"ERGON INC",
+    "survey":820,
+    "perdio":21,
+    "name":"ERGON WEST VIRGINIA INC",
+    "rdist":"Appalachian No. 1",
+    "state":"West Virginia",
+    "city":"NEWELL",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":22300,
+    "percent":"3%",
+    "hydrogen":3272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4143604,39.8276126 ]
+    },
+    "properties": {
+    "id":67,
+    "corp":"DELTA AIR LINES INC",
+    "survey":820,
+    "perdio":21,
+    "name":"MONROE ENERGY LLC",
+    "rdist":"East Coast",
+    "state":"Pennsylvania",
+    "city":"TRAINER",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":190000,
+    "percent":"23%",
+    "hydrogen":27880
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.2404608,39.830391 ]
+    },
+    "properties": {
+    "id":71,
+    "corp":"PBF ENERGY CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"PAULSBORO REFINING CO LLC",
+    "rdist":"East Coast",
+    "state":"New Jersey",
+    "city":"PAULSBORO",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":100000,
+    "percent":"12%",
+    "hydrogen":14674
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2445902,40.6220478 ]
+    },
+    "properties": {
+    "id":81,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"East Coast",
+    "state":"New Jersey",
+    "city":"LINDEN",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":258500,
+    "percent":"32%",
+    "hydrogen":37931
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.145045,41.843949 ]
+    },
+    "properties": {
+    "id":107,
+    "corp":"RED APPLE GROUP INC",
+    "survey":820,
+    "perdio":21,
+    "name":"UNITED REFINING CO",
+    "rdist":"Appalachian No. 1",
+    "state":"Pennsylvania",
+    "city":"WARREN",
+    "padd":1,
+    "paddtot":120000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":65000,
+    "percent":"8%",
+    "hydrogen":9538
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.4944873,41.6797578 ]
+    },
+    "properties": {
+    "id":3,
+    "corp":"BP PLC",
+    "survey":820,
+    "perdio":21,
+    "name":"BP PRODUCTS NORTH AMERICA INC",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Indiana",
+    "city":"WHITING",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":435000,
+    "percent":"10%",
+    "hydrogen":125775
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5378173,41.6529143 ]
+    },
+    "properties": {
+    "id":5,
+    "corp":"BP HUSKY REFINING LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"BP-HUSKY REFINING LLC",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Ohio",
+    "city":"TOLEDO",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":152000,
+    "percent":"4%",
+    "hydrogen":43949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.6575171,38.3659015 ]
+    },
+    "properties": {
+    "id":18,
+    "corp":"CHS INC",
+    "survey":820,
+    "perdio":21,
+    "name":"CHS MCPHERSON REFINERY INC",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Kansas",
+    "city":"MCPHERSON",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":109800,
+    "percent":"3%",
+    "hydrogen":31747
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6163634,37.0372999 ]
+    },
+    "properties": {
+    "id":21,
+    "corp":"CVR ENERGY",
+    "survey":820,
+    "perdio":21,
+    "name":"COFFEYVILLE RESOURCES RFG & MKTG",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Kansas",
+    "city":"COFFEYVILLE",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":132000,
+    "percent":"3%",
+    "hydrogen":38166
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8952993,37.9396795 ]
+    },
+    "properties": {
+    "id":23,
+    "corp":"COUNTRYMARK COOP INC",
+    "survey":820,
+    "perdio":21,
+    "name":"COUNTRYMARK COOPERATIVE INC",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Indiana",
+    "city":"MOUNT VERNON",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":28800,
+    "percent":"1%",
+    "hydrogen":8327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0840212,41.5263603 ]
+    },
+    "properties": {
+    "id":32,
+    "corp":"EXXON MOBIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"EXXONMOBIL REFINING & SUPPLY CO",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Illinois",
+    "city":"JOLIET",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":251800,
+    "percent":"6%",
+    "hydrogen":72805
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0949764,44.9500208 ]
+    },
+    "properties": {
+    "id":37,
+    "corp":"KOCH INDUSTRIES INC",
+    "survey":820,
+    "perdio":21,
+    "name":"Flint Hills Resources LP",
+    "rdist":"Minnesota-Wisconsin-North and South Dakota",
+    "state":"Minnesota",
+    "city":"SAINT PAUL",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":335000,
+    "percent":"8%",
+    "hydrogen":96861
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.8622524,37.81724 ]
+    },
+    "properties": {
+    "id":44,
+    "corp":"HOLLYFRONTIER CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"HOLLYFRONTIER EL DORADO REFINING LLC",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Kansas",
+    "city":"EL DORADO",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":162000,
+    "percent":"4%",
+    "hydrogen":46840
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9929113,36.1556805 ]
+    },
+    "properties": {
+    "id":46,
+    "corp":"HOLLYFRONTIER CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"HOLLYFRONTIER TULSA REFINING LLC",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Oklahoma",
+    "city":"TULSA EAST",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":70300,
+    "percent":"2%",
+    "hydrogen":20326
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.9929113,36.1556805 ]
+    },
+    "properties": {
+    "id":47,
+    "corp":"HOLLYFRONTIER CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"HOLLYFRONTIER TULSA REFINING LLC",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Oklahoma",
+    "city":"TULSA WEST",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":85000,
+    "percent":"2%",
+    "hydrogen":24577
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.105006,40.7399785 ]
+    },
+    "properties": {
+    "id":54,
+    "corp":"HUSKY ENERGY INC",
+    "survey":820,
+    "perdio":21,
+    "name":"LIMA REFINING COMPANY",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Ohio",
+    "city":"LIMA",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":179000,
+    "percent":"4%",
+    "hydrogen":51756
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7391936,39.0053201 ]
+    },
+    "properties": {
+    "id":60,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"MARATHON PETROLEUM CO LP",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Illinois",
+    "city":"ROBINSON",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":253000,
+    "percent":"6%",
+    "hydrogen":73152
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.6004369,38.4048042 ]
+    },
+    "properties": {
+    "id":61,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"MARATHON PETROLEUM CO LP",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Kentucky",
+    "city":"CATLETTSBURG",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":291000,
+    "percent":"7%",
+    "hydrogen":84139
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0466403,42.3315509 ]
+    },
+    "properties": {
+    "id":63,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"MARATHON PETROLEUM CO LP",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Michigan",
+    "city":"DETROIT",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":140000,
+    "percent":"3%",
+    "hydrogen":40479
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3749508,40.7985464 ]
+    },
+    "properties": {
+    "id":64,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"MARATHON PETROLEUM CO LP",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Ohio",
+    "city":"CANTON",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":97000,
+    "percent":"2%",
+    "hydrogen":28046
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0016263,41.6737149 ]
+    },
+    "properties": {
+    "id":72,
+    "corp":"PDV AMERICA INC",
+    "survey":820,
+    "perdio":21,
+    "name":"PDV Midwest Refining LLC",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Illinois",
+    "city":"LEMONT",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":179265,
+    "percent":"4%",
+    "hydrogen":51832
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.081898,36.703647 ]
+    },
+    "properties": {
+    "id":82,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Oklahoma",
+    "city":"PONCA CITY",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":206000,
+    "percent":"5%",
+    "hydrogen":59562
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.0949764,44.9500208 ]
+    },
+    "properties": {
+    "id":94,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"ST PAUL PARK REFINING CO LLC",
+    "rdist":"Minnesota-Wisconsin-North and South Dakota",
+    "state":"Minnesota",
+    "city":"SAINT PAUL",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":103000,
+    "percent":"2%",
+    "hydrogen":29781
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.889704,46.826415 ]
+    },
+    "properties": {
+    "id":99,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"TESORO REFINING & MARKETING CO",
+    "rdist":"Minnesota-Wisconsin-North and South Dakota",
+    "state":"North Dakota",
+    "city":"MANDAN",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":71000,
+    "percent":"2%",
+    "hydrogen":20529
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5378173,41.6529143 ]
+    },
+    "properties": {
+    "id":103,
+    "corp":"PBF ENERGY CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"TOLEDO REFINING CO LLC",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Ohio",
+    "city":"TOLEDO",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":172800,
+    "percent":"4%",
+    "hydrogen":49963
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0516285,35.1490215 ]
+    },
+    "properties": {
+    "id":109,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REF COMPANY TENNESSEE LLC",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Tennessee",
+    "city":"MEMPHIS",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":180000,
+    "percent":"4%",
+    "hydrogen":52045
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1436254,34.1742611 ]
+    },
+    "properties": {
+    "id":113,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING CO OKLAHOMA",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Oklahoma",
+    "city":"ARDMORE",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":86000,
+    "percent":"2%",
+    "hydrogen":24866
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0976069,38.861159 ]
+    },
+    "properties": {
+    "id":119,
+    "corp":"WRB REFINING LP",
+    "survey":820,
+    "perdio":21,
+    "name":"WRB REFINING LP",
+    "rdist":"Indiana-Illinois-Kentucky",
+    "state":"Illinois",
+    "city":"WOOD RIVER",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":356000,
+    "percent":"9%",
+    "hydrogen":102933
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.1644656,34.6434171 ]
+    },
+    "properties": {
+    "id":121,
+    "corp":"CVR ENERGY",
+    "survey":820,
+    "perdio":21,
+    "name":"WYNNEWOOD REFINING CO",
+    "rdist":"Oklahoma-Kansas-Missouri",
+    "state":"Oklahoma",
+    "city":"WYNNEWOOD",
+    "padd":2,
+    "paddtot":1200000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":74500,
+    "percent":"2%",
+    "hydrogen":21541
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.4787356,32.250398 ]
+    },
+    "properties": {
+    "id":0,
+    "corp":"DELEK GROUP LTD",
+    "survey":820,
+    "perdio":21,
+    "name":"ALON USA ENERGY INC",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"BIG SPRING",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":73000,
+    "percent":"1%",
+    "hydrogen":23187
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3942053,27.7951482 ]
+    },
+    "properties": {
+    "id":6,
+    "corp":"BUCKEYE PARTNERS LP",
+    "survey":820,
+    "perdio":21,
+    "name":"BUCKEYE TEXAS PROCESSING LLC",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"CORPUS CHRISTI",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":60000,
+    "percent":"1%",
+    "hydrogen":19058
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.4176721,32.8193093 ]
+    },
+    "properties": {
+    "id":8,
+    "corp":"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+    "survey":820,
+    "perdio":21,
+    "name":"CALUMET COTTON VALLEY REFINING LLC",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Louisiana",
+    "city":"COTTON VALLEY",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":13020,
+    "percent":"0%",
+    "hydrogen":4136
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.5151742,32.5893162 ]
+    },
+    "properties": {
+    "id":10,
+    "corp":"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+    "survey":820,
+    "perdio":21,
+    "name":"CALUMET PRINCETON REFINING LLC",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Louisiana",
+    "city":"PRINCETON",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":8300,
+    "percent":"0%",
+    "hydrogen":2636
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.7651944,32.5221828 ]
+    },
+    "properties": {
+    "id":11,
+    "corp":"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+    "survey":820,
+    "perdio":21,
+    "name":"CALUMET SHREVEPORT REFINING LLC",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Louisiana",
+    "city":"SHREVEPORT",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":57000,
+    "percent":"1%",
+    "hydrogen":18105
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9629372,29.9427892 ]
+    },
+    "properties": {
+    "id":13,
+    "corp":"PBF ENERGY CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"Chalmette Refining LLC",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"CHALMETTE",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":190000,
+    "percent":"2%",
+    "hydrogen":60350
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.5585995,30.3646795 ]
+    },
+    "properties": {
+    "id":16,
+    "corp":"CHEVRON CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"CHEVRON USA INC",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Mississippi",
+    "city":"PASCAGOULA",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":356440,
+    "percent":"4%",
+    "hydrogen":113217
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2173759,30.2265949 ]
+    },
+    "properties": {
+    "id":19,
+    "corp":"PDV AMERICA INC",
+    "survey":820,
+    "perdio":21,
+    "name":"CITGO PETROLEUM CORP",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"LAKE CHARLES",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":418000,
+    "percent":"4%",
+    "hydrogen":132770
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3942053,27.7951482 ]
+    },
+    "properties": {
+    "id":20,
+    "corp":"PDV AMERICA INC",
+    "survey":820,
+    "perdio":21,
+    "name":"CITGO REFINING & CHEMICAL INC",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"CORPUS CHRISTI",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":167500,
+    "percent":"2%",
+    "hydrogen":53203
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.7248822,33.3648455 ]
+    },
+    "properties": {
+    "id":24,
+    "corp":"MARTIN RESOURCE MANAGEMENT GRP",
+    "survey":820,
+    "perdio":21,
+    "name":"CROSS OIL REFINING & MARKETING INC",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Arkansas",
+    "city":"SMACKOVER",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":7500,
+    "percent":"0%",
+    "hydrogen":2382
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.1238204,29.7052284 ]
+    },
+    "properties": {
+    "id":25,
+    "corp":"DEER PARK REFINING LTD PTNRSHP",
+    "survey":820,
+    "perdio":21,
+    "name":"DEER PARK REFINING LTD PARTNERSHIP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"DEER PARK",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":302800,
+    "percent":"3%",
+    "hydrogen":96179
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3984613,30.7563939 ]
+    },
+    "properties": {
+    "id":27,
+    "corp":"DELEK GROUP LTD",
+    "survey":820,
+    "perdio":21,
+    "name":"DELEK REFINING LTD",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"TYLER",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":75000,
+    "percent":"1%",
+    "hydrogen":23822
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.824616,36.0167027 ]
+    },
+    "properties": {
+    "id":28,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"DIAMOND SHAMROCK REFINING CO LP",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"SUNRAY",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":195000,
+    "percent":"2%",
+    "hydrogen":61938
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.1809755,28.4647614 ]
+    },
+    "properties": {
+    "id":29,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"DIAMOND SHAMROCK REFINING CO LP",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"THREE RIVERS",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":89000,
+    "percent":"1%",
+    "hydrogen":28269
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8777342,32.3528055 ]
+    },
+    "properties": {
+    "id":30,
+    "corp":"ERGON INC",
+    "survey":820,
+    "perdio":21,
+    "name":"ERGON REFINING INC",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Mississippi",
+    "city":"VICKSBURG",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":26500,
+    "percent":"0%",
+    "hydrogen":8417
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.18738,30.4459596 ]
+    },
+    "properties": {
+    "id":33,
+    "corp":"EXXON MOBIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"EXXONMOBIL REFINING & SUPPLY CO",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"BATON ROUGE",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":520000,
+    "percent":"6%",
+    "hydrogen":165169
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9774274,29.7355047 ]
+    },
+    "properties": {
+    "id":35,
+    "corp":"EXXON MOBIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"EXXONMOBIL REFINING & SUPPLY CO",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"BAYTOWN",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":560500,
+    "percent":"6%",
+    "hydrogen":178033
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.1018461,30.0860459 ]
+    },
+    "properties": {
+    "id":36,
+    "corp":"EXXON MOBIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"EXXONMOBIL REFINING & SUPPLY CO",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"BEAUMONT",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":369024,
+    "percent":"4%",
+    "hydrogen":117214
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3942053,27.7951482 ]
+    },
+    "properties": {
+    "id":38,
+    "corp":"KOCH INDUSTRIES INC",
+    "survey":820,
+    "perdio":21,
+    "name":"FLINT HILLS RESOURCES LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"CORPUS CHRISTI EAST",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":73500,
+    "percent":"1%",
+    "hydrogen":23346
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3942053,27.7951482 ]
+    },
+    "properties": {
+    "id":39,
+    "corp":"KOCH INDUSTRIES INC",
+    "survey":820,
+    "perdio":21,
+    "name":"Flint Hills Resources LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"CORPUS CHRISTI WEST",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":265000,
+    "percent":"3%",
+    "hydrogen":84172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.4938708,31.0237921 ]
+    },
+    "properties": {
+    "id":41,
+    "corp":"GOODWAY REFINING LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"GOODWAY REFINING LLC",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Alabama",
+    "city":"ATMORE",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":4100,
+    "percent":"0%",
+    "hydrogen":1302
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.4032963,32.8423345 ]
+    },
+    "properties": {
+    "id":45,
+    "corp":"HOLLYFRONTIER CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"HOLLYFRONTIER NAVAJO REFINING LLC",
+    "rdist":"New Mexico",
+    "state":"New Mexico",
+    "city":"ARTESIA",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":110000,
+    "percent":"1%",
+    "hydrogen":34939
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3676974,29.7589382 ]
+    },
+    "properties": {
+    "id":49,
+    "corp":"ACCESS INDUSTRIES",
+    "survey":820,
+    "perdio":21,
+    "name":"HOUSTON REFINING LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"HOUSTON",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":263776,
+    "percent":"3%",
+    "hydrogen":83784
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.5675258,33.2095614 ]
+    },
+    "properties": {
+    "id":50,
+    "corp":"HUNT CONSLD INC",
+    "survey":820,
+    "perdio":21,
+    "name":"HUNT REFINING CO",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Alabama",
+    "city":"TUSCALOOSA",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":48000,
+    "percent":"1%",
+    "hydrogen":15246
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2302123,29.7335616 ]
+    },
+    "properties": {
+    "id":52,
+    "corp":"KINDER MORGAN ENERGY PTNRS LP",
+    "survey":820,
+    "perdio":21,
+    "name":"KINDER MORGAN CRUDE & CONDENSATE",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"GALENA PARK",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":84000,
+    "percent":"1%",
+    "hydrogen":26681
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.7625132,29.2696579 ]
+    },
+    "properties": {
+    "id":53,
+    "corp":"BLUE DOLPHIN ENERGY CO",
+    "survey":820,
+    "perdio":21,
+    "name":"LAZARUS ENERGY LLC",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"NIXON",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":14000,
+    "percent":"0%",
+    "hydrogen":4447
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6662674,33.20763 ]
+    },
+    "properties": {
+    "id":56,
+    "corp":"DELEK GROUP LTD",
+    "survey":820,
+    "perdio":21,
+    "name":"LION OIL CO",
+    "rdist":"North Louisiana-Arkansas",
+    "state":"Arkansas",
+    "city":"EL DORADO",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":83000,
+    "percent":"1%",
+    "hydrogen":26363
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3942053,27.7951482 ]
+    },
+    "properties": {
+    "id":59,
+    "corp":"MAGELLAN MIDSTREAM PARTNERS LP",
+    "survey":820,
+    "perdio":21,
+    "name":"MAGELLAN TERMINAL HOLDINGS LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"CORPUS CHRISTI",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":42500,
+    "percent":"0%",
+    "hydrogen":13499
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.631603,30.0758405 ]
+    },
+    "properties": {
+    "id":62,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"MARATHON PETROLEUM CO LP",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"GARYVILLE",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":578000,
+    "percent":"6%",
+    "hydrogen":183591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.936592,29.5696734 ]
+    },
+    "properties": {
+    "id":65,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"MARATHON PETROLEUM CO LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"GALVESTON BAY",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":593000,
+    "percent":"6%",
+    "hydrogen":188356
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.9288723,29.8988618 ]
+    },
+    "properties": {
+    "id":68,
+    "corp":"SAUDI ARAMCO",
+    "survey":820,
+    "perdio":21,
+    "name":"Motiva Enterprises LLC",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"PORT ARTHUR",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":607000,
+    "percent":"6%",
+    "hydrogen":192802
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.2091006,29.6910625 ]
+    },
+    "properties": {
+    "id":70,
+    "corp":"CHEVRON CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"PASADENA REFINING SYSTEMS INC",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"PASADENA",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":112229,
+    "percent":"1%",
+    "hydrogen":35647
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3676974,29.7589382 ]
+    },
+    "properties": {
+    "id":75,
+    "corp":"PETROMAX REFINING CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"PETROMAX REFINING CO LLC",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"HOUSTON",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":25000,
+    "percent":"0%",
+    "hydrogen":7941
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.9906253,29.8549287 ]
+    },
+    "properties": {
+    "id":78,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"BELLE CHASSE",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":255600,
+    "percent":"3%",
+    "hydrogen":81187
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2507099,30.2421496 ]
+    },
+    "properties": {
+    "id":79,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"WESTLAKE",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":264000,
+    "percent":"3%",
+    "hydrogen":83855
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6977341,29.0428593 ]
+    },
+    "properties": {
+    "id":83,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"SWEENY",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":265000,
+    "percent":"3%",
+    "hydrogen":84172
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.2101081,30.4521351 ]
+    },
+    "properties": {
+    "id":85,
+    "corp":"PLACID OIL CO",
+    "survey":820,
+    "perdio":21,
+    "name":"PLACID REFINING CO",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"PORT ALLEN",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":75000,
+    "percent":"1%",
+    "hydrogen":23822
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.9288723,29.8988618 ]
+    },
+    "properties": {
+    "id":86,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"PREMCOR REFINING GROUP INC",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"PORT ARTHUR",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":335000,
+    "percent":"4%",
+    "hydrogen":106407
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0705556,30.820742 ]
+    },
+    "properties": {
+    "id":88,
+    "corp":"ROYAL DUTCH/SHELL GROUP",
+    "survey":820,
+    "perdio":21,
+    "name":"SHELL CHEMICAL LP",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Alabama",
+    "city":"SARALAND",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":87500,
+    "percent":"1%",
+    "hydrogen":27793
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4123042,29.9990924 ]
+    },
+    "properties": {
+    "id":89,
+    "corp":"ROYAL DUTCH/SHELL GROUP",
+    "survey":820,
+    "perdio":21,
+    "name":"SHELL OIL PRODUCTS US",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"NORCO",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":230611,
+    "percent":"2%",
+    "hydrogen":73249
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -98.4951405,29.4246002 ]
+    },
+    "properties": {
+    "id":102,
+    "corp":"STARLIGHT RELATIVITY ACQUISITION CO",
+    "survey":820,
+    "perdio":21,
+    "name":"THE SAN ANTONIO REFINERY LLC",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"SAN ANTONIO",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":20000,
+    "percent":"0%",
+    "hydrogen":6353
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.9288723,29.8988618 ]
+    },
+    "properties": {
+    "id":105,
+    "corp":"TOTAL SA",
+    "survey":820,
+    "perdio":21,
+    "name":"TOTAL PETROCHEMICALS & REFINING USA",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"PORT ARTHUR",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":180500,
+    "percent":"2%",
+    "hydrogen":57333
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.919789,29.926961 ]
+    },
+    "properties": {
+    "id":110,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING - MERAUX LLC",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"MERAUX",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":125000,
+    "percent":"1%",
+    "hydrogen":39704
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -97.3942053,27.7951482 ]
+    },
+    "properties": {
+    "id":114,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING CO TEXAS LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"CORPUS CHRISTI",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":290000,
+    "percent":"3%",
+    "hydrogen":92113
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.3676974,29.7589382 ]
+    },
+    "properties": {
+    "id":115,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING CO TEXAS LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"HOUSTON",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":205000,
+    "percent":"2%",
+    "hydrogen":65115
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.9175485,29.396013 ]
+    },
+    "properties": {
+    "id":116,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING CO TEXAS LP",
+    "rdist":"Texas Gulf Coast",
+    "state":"Texas",
+    "city":"TEXAS CITY",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":225000,
+    "percent":"2%",
+    "hydrogen":71467
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.4123042,29.9990924 ]
+    },
+    "properties": {
+    "id":117,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING NEW ORLEANS LLC",
+    "rdist":"Louisiana Gulf Coast",
+    "state":"Louisiana",
+    "city":"NORCO",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":215000,
+    "percent":"2%",
+    "hydrogen":68291
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.464634,31.7754152 ]
+    },
+    "properties": {
+    "id":118,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"WESTERN REFINING COMPANY LP",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"EL PASO",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":131000,
+    "percent":"1%",
+    "hydrogen":41610
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -101.3973876,35.6678204 ]
+    },
+    "properties": {
+    "id":120,
+    "corp":"WRB REFINING LP",
+    "survey":820,
+    "perdio":21,
+    "name":"WRB REFINING LP",
+    "rdist":"Texas Inland",
+    "state":"Texas",
+    "city":"BORGER",
+    "padd":3,
+    "paddtot":3000000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":149000,
+    "percent":"2%",
+    "hydrogen":47327
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.9068824,40.8485564 ]
+    },
+    "properties": {
+    "id":2,
+    "corp":"FJ MANAGEMENT INC",
+    "survey":820,
+    "perdio":21,
+    "name":"BIG WEST OIL CO",
+    "rdist":"Rocky Mountain",
+    "state":"Utah",
+    "city":"NORTH SALT LAKE",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":31664,
+    "percent":"5%",
+    "hydrogen":14680
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.29189,47.5048851 ]
+    },
+    "properties": {
+    "id":9,
+    "corp":"CALUMET SPECIALTY PRODUCTS PARTNERS, L.P.",
+    "survey":820,
+    "perdio":21,
+    "name":"CALUMET MONTANA REFINING LLC",
+    "rdist":"Rocky Mountain",
+    "state":"Montana",
+    "city":"GREAT FALLS",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":25000,
+    "percent":"4%",
+    "hydrogen":11591
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.771532,45.6691159 ]
+    },
+    "properties": {
+    "id":12,
+    "corp":"CHS INC",
+    "survey":820,
+    "perdio":21,
+    "name":"Cenex Harvest States Coop",
+    "rdist":"Rocky Mountain",
+    "state":"Montana",
+    "city":"LAUREL",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":62000,
+    "percent":"10%",
+    "hydrogen":28745
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8867975,40.7596198 ]
+    },
+    "properties": {
+    "id":17,
+    "corp":"CHEVRON CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"CHEVRON USA INC",
+    "rdist":"Rocky Mountain",
+    "state":"Utah",
+    "city":"SALT LAKE CITY",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":54720,
+    "percent":"8%",
+    "hydrogen":25370
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.49607,45.7874957 ]
+    },
+    "properties": {
+    "id":34,
+    "corp":"EXXON MOBIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"EXXONMOBIL REFINING & SUPPLY CO",
+    "rdist":"Rocky Mountain",
+    "state":"Montana",
+    "city":"BILLINGS",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":61500,
+    "percent":"10%",
+    "hydrogen":28513
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.2505781,43.3555265 ]
+    },
+    "properties": {
+    "id":42,
+    "corp":"PAR PETROLEUM INC",
+    "survey":820,
+    "perdio":21,
+    "name":"HERMES CONSOLIDATED LLC",
+    "rdist":"Rocky Mountain",
+    "state":"Wyoming",
+    "city":"NEW CASTLE",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":18000,
+    "percent":"3%",
+    "hydrogen":8345
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8925775,40.8716964 ]
+    },
+    "properties": {
+    "id":48,
+    "corp":"HOLLYFRONTIER CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"HOLLYFRONTIER WOODS CROSS REFINING L",
+    "rdist":"Rocky Mountain",
+    "state":"Utah",
+    "city":"WOODS CROSS",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":39330,
+    "percent":"6%",
+    "hydrogen":18235
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.269533,42.861429 ]
+    },
+    "properties": {
+    "id":57,
+    "corp":"SINCLAIR OIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"LITTLE AMERICA REFINING CO",
+    "rdist":"Rocky Mountain",
+    "state":"Wyoming",
+    "city":"EVANSVILLE",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":29850,
+    "percent":"5%",
+    "hydrogen":13839
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.49607,45.7874957 ]
+    },
+    "properties": {
+    "id":80,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"Rocky Mountain",
+    "state":"Montana",
+    "city":"BILLINGS",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":66000,
+    "percent":"10%",
+    "hydrogen":30600
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8925775,40.8716964 ]
+    },
+    "properties": {
+    "id":91,
+    "corp":"SILVER EAGLE REFINING INC",
+    "survey":820,
+    "perdio":21,
+    "name":"Silver Eagle Refining",
+    "rdist":"Rocky Mountain",
+    "state":"Utah",
+    "city":"WOODS CROSS",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":15000,
+    "percent":"2%",
+    "hydrogen":6954
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.963758,41.2682462 ]
+    },
+    "properties": {
+    "id":92,
+    "corp":"SILVER EAGLE REFINING INC",
+    "survey":820,
+    "perdio":21,
+    "name":"Silver Eagle Refining",
+    "rdist":"Rocky Mountain",
+    "state":"Wyoming",
+    "city":"EVANSTON",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":3000,
+    "percent":"0%",
+    "hydrogen":1391
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.1162507,41.7791754 ]
+    },
+    "properties": {
+    "id":93,
+    "corp":"SINCLAIR OIL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"SINCLAIR WYOMING REFINING CO",
+    "rdist":"Rocky Mountain",
+    "state":"Wyoming",
+    "city":"SINCLAIR",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":75000,
+    "percent":"12%",
+    "hydrogen":34772
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.6687354,39.9111348 ]
+    },
+    "properties": {
+    "id":95,
+    "corp":"SUNCOR ENERGY INC",
+    "survey":820,
+    "perdio":21,
+    "name":"SUNCOR ENERGY (USA) INC",
+    "rdist":"Rocky Mountain",
+    "state":"Colorado",
+    "city":"COMMERCE CITY EAST",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":36000,
+    "percent":"6%",
+    "hydrogen":16691
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9338675,39.8083196 ]
+    },
+    "properties": {
+    "id":96,
+    "corp":"SUNCOR ENERGY INC",
+    "survey":820,
+    "perdio":21,
+    "name":"SUNCOR ENERGY (USA) INC",
+    "rdist":"Rocky Mountain",
+    "state":"Colorado",
+    "city":"COMMERCE CITY WEST",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":67000,
+    "percent":"10%",
+    "hydrogen":31063
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8867975,40.7596198 ]
+    },
+    "properties": {
+    "id":100,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"TESORO REFINING & MARKETING CO",
+    "rdist":"Rocky Mountain",
+    "state":"Utah",
+    "city":"SALT LAKE CITY",
+    "padd":4,
+    "paddtot":300000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":63000,
+    "percent":"10%",
+    "hydrogen":29209
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5897235,48.8466698 ]
+    },
+    "properties": {
+    "id":4,
+    "corp":"BP PLC",
+    "survey":820,
+    "perdio":21,
+    "name":"BP West Coast Products LLC",
+    "rdist":"West Coast",
+    "state":"Washington",
+    "city":"FERNDALE",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":242000,
+    "percent":"9%",
+    "hydrogen":127389
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4358577,34.9531295 ]
+    },
+    "properties": {
+    "id":7,
+    "corp":"GREKA ENERGY",
+    "survey":820,
+    "perdio":21,
+    "name":"CALIFORNIA ASPHALT PRODUCTION INC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"SANTA MARIA",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":9500,
+    "percent":"0%",
+    "hydrogen":5001
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.4156337,33.917028 ]
+    },
+    "properties": {
+    "id":14,
+    "corp":"CHEVRON CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"CHEVRON USA INC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"EL SEGUNDO",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":269000,
+    "percent":"10%",
+    "hydrogen":141602
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.347748,37.9357576 ]
+    },
+    "properties": {
+    "id":15,
+    "corp":"CHEVRON CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"CHEVRON USA INC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"RICHMOND",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":245271,
+    "percent":"9%",
+    "hydrogen":129111
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.3978377,70.2450108 ]
+    },
+    "properties": {
+    "id":22,
+    "corp":"CONOCOPHILLIPS",
+    "survey":820,
+    "perdio":21,
+    "name":"CONOCOPHILLIPS ALASKA INC",
+    "rdist":"West Coast",
+    "state":"Alaska",
+    "city":"PRUDHOE BAY",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":15000,
+    "percent":"1%",
+    "hydrogen":7896
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8917183,39.2480588 ]
+    },
+    "properties": {
+    "id":40,
+    "corp":"FORELAND REFINING CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"FORELAND REFINING CORP",
+    "rdist":"West Coast",
+    "state":"Nevada",
+    "city":"ELY",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":2000,
+    "percent":"0%",
+    "hydrogen":1053
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.3978377,70.2450108 ]
+    },
+    "properties": {
+    "id":43,
+    "corp":"HILCORP ENERGY CO",
+    "survey":820,
+    "perdio":21,
+    "name":"HILCORP NORTH SLOPE LLC",
+    "rdist":"West Coast",
+    "state":"Alaska",
+    "city":"PRUDHOE BAY",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":6500,
+    "percent":"0%",
+    "hydrogen":3422
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0194639,35.3738712 ]
+    },
+    "properties": {
+    "id":51,
+    "corp":"KERN OIL & REFINING CO",
+    "survey":820,
+    "perdio":21,
+    "name":"KERN OIL & REFINING CO",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"BAKERSFIELD",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":26000,
+    "percent":"1%",
+    "hydrogen":13686
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.200981,33.9463456 ]
+    },
+    "properties": {
+    "id":58,
+    "corp":"WORLD OIL CO",
+    "survey":820,
+    "perdio":21,
+    "name":"LUNDAY THAGARD CO",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"SOUTH GATE",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":8500,
+    "percent":"0%",
+    "hydrogen":4474
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1338674,38.0138934 ]
+    },
+    "properties": {
+    "id":66,
+    "corp":"PBF ENERGY CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"MARTINEZ REFINING CO LLC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"MARTINEZ",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":156400,
+    "percent":"6%",
+    "hydrogen":82329
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.077849,21.3340079 ]
+    },
+    "properties": {
+    "id":69,
+    "corp":"PAR PETROLEUM INC",
+    "survey":820,
+    "perdio":21,
+    "name":"PAR HAWAII REFINING LLC",
+    "rdist":"West Coast",
+    "state":"Hawaii",
+    "city":"KAPOLEI",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":93500,
+    "percent":"4%",
+    "hydrogen":49218
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.349319,64.750997 ]
+    },
+    "properties": {
+    "id":73,
+    "corp":"ARCTIC SLOPE REGIONAL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"PETRO STAR INC",
+    "rdist":"West Coast",
+    "state":"Alaska",
+    "city":"NORTH POLE",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":19700,
+    "percent":"1%",
+    "hydrogen":10370
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.3493638,61.1299396 ]
+    },
+    "properties": {
+    "id":74,
+    "corp":"ARCTIC SLOPE REGIONAL CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"PETRO STAR INC",
+    "rdist":"West Coast",
+    "state":"Alaska",
+    "city":"VALDEZ",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":55000,
+    "percent":"2%",
+    "hydrogen":28952
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2676656,38.0339842 ]
+    },
+    "properties": {
+    "id":76,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"RODEO",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":120200,
+    "percent":"5%",
+    "hydrogen":63273
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.262509,33.7800164 ]
+    },
+    "properties": {
+    "id":77,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"WILMINGTON",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":139000,
+    "percent":"5%",
+    "hydrogen":73170
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.5897235,48.8466698 ]
+    },
+    "properties": {
+    "id":84,
+    "corp":"PHILLIPS 66 COMPANY",
+    "survey":820,
+    "perdio":21,
+    "name":"PHILLIPS 66 COMPANY",
+    "rdist":"West Coast",
+    "state":"Washington",
+    "city":"FERNDALE",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":105000,
+    "percent":"4%",
+    "hydrogen":55272
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0194639,35.3738712 ]
+    },
+    "properties": {
+    "id":87,
+    "corp":"SAN JOAQUIN REFINING CO INC",
+    "survey":820,
+    "perdio":21,
+    "name":"SAN JOAQUIN REFINING CO INC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"BAKERSFIELD",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":15000,
+    "percent":"1%",
+    "hydrogen":7896
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6237356,48.5020123 ]
+    },
+    "properties": {
+    "id":90,
+    "corp":"ROYAL DUTCH/SHELL GROUP",
+    "survey":820,
+    "perdio":21,
+    "name":"Shell Oil Products US",
+    "rdist":"West Coast",
+    "state":"Washington",
+    "city":"ANACORTES",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":145000,
+    "percent":"5%",
+    "hydrogen":76328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.2583333,60.5544444 ]
+    },
+    "properties": {
+    "id":97,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"TESORO ALASKA COMPANY LLC",
+    "rdist":"West Coast",
+    "state":"Alaska",
+    "city":"KENAI",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":68000,
+    "percent":"3%",
+    "hydrogen":35795
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2517547,33.8322043 ]
+    },
+    "properties": {
+    "id":98,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"TESORO REFINING & MARKETING CO",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"CARSON",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":363000,
+    "percent":"14%",
+    "hydrogen":191083
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.6237356,48.5020123 ]
+    },
+    "properties": {
+    "id":101,
+    "corp":"MARATHON PETROLEUM CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"TESORO REFINING & MARKETING CO",
+    "rdist":"West Coast",
+    "state":"Washington",
+    "city":"ANACORTES",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":119000,
+    "percent":"4%",
+    "hydrogen":62642
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.3406288,33.8358492 ]
+    },
+    "properties": {
+    "id":104,
+    "corp":"PBF ENERGY CO LLC",
+    "survey":820,
+    "perdio":21,
+    "name":"TORRANCE REFINING CO LLC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"TORRANCE",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":160000,
+    "percent":"6%",
+    "hydrogen":84224
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.2885563,33.7740761 ]
+    },
+    "properties": {
+    "id":106,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"ULTRAMAR INC",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"WILMINGTON REFINERY",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":85000,
+    "percent":"3%",
+    "hydrogen":44744
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.4398746,47.2495798 ]
+    },
+    "properties": {
+    "id":108,
+    "corp":"PAR PETROLEUM INC",
+    "survey":820,
+    "perdio":21,
+    "name":"US OIL & REFINING CO",
+    "rdist":"West Coast",
+    "state":"Washington",
+    "city":"TACOMA",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":40700,
+    "percent":"2%",
+    "hydrogen":21425
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1585777,38.049365 ]
+    },
+    "properties": {
+    "id":111,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING CO CALIFORNIA",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"BENICIA",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":145000,
+    "percent":"5%",
+    "hydrogen":76328
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.273382,33.770423 ]
+    },
+    "properties": {
+    "id":112,
+    "corp":"VALERO ENERGY CORP",
+    "survey":820,
+    "perdio":21,
+    "name":"VALERO REFINING CO CALIFORNIA",
+    "rdist":"West Coast",
+    "state":"California",
+    "city":"WILMINGTON ASPHALT PLANT",
+    "padd":5,
+    "paddtot":1400000,
+    "product":"OPERATING CAPACITY",
+    "supply":"Atmospheric Crude Distillation Capacity (barrels per calendar day)",
+    "quantity":6300,
+    "percent":"0%",
+    "hydrogen":3316
+    }
+  }
+]
+}
