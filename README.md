@@ -10,7 +10,7 @@ Run `npm start` to start up a local server that watches for changes in the `publ
 
 ## Public folder
 
-The public folder contains elements necessary to make a simple static site with a mapbox map.
+The public folder contains elements necessary to make a simple static site with a mapbox map. If you are unable to run a local server, opening `index.html` in a web browser should display the map.
 
 ## Mapbox
 
